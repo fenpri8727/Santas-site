@@ -1,0 +1,169 @@
+.carousel-inner {
+	position: relative;
+	left: 40px;
+}
+.map .img-circle {
+	width: 500px;
+	height: 500px;
+}
+
+.carousel-caption {
+	color: #34F061;
+	font-size: 50px;
+	text-shadow: 0px 0px 50px #69F492;
+	-webkit-box-shadow: 0px 0px 0px #FF0004;
+	box-shadow: 0px 0px 0px #FF0004;
+}
+.nav {
+
+}
+body nav {
+	background-color: #AC2424;
+	color: #E7E7E7;
+	-webkit-box-shadow: 0px 0px 50px;
+	box-shadow: 0px 0px 50px;
+}
+.thumbnail {
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	float: right;
+}
+
+.carousel-inner .item.active img {
+	-webkit-box-shadow: 0px 0px;
+	box-shadow: 0px 0px;
+	border-radius: 30px;
+}
+
+.container .navbar-header .navbar-brand {
+	color: #FFFFFF;
+	-webkit-box-shadow: 0px 0px 40px #33FFAF;
+	box-shadow: 0px 0px 40px #33FFAF;
+}
+.nav.navbar-nav li a {
+	color: #000000;
+}
+.container {
+	border-radius: 30px;
+}
+.carousel-inner .item.active img {
+	border-radius: 30px;
+}
+.container .row #carousel1 {
+	border-radius: 30px;
+}
+.carousel-inner .item img {
+	border-radius: 30px;
+}
+img {
+	border: medium solid #000000;
+	margin-left: auto;
+	margin-right: auto;
+}
+.map {
+	margin-top: 40px;
+	width: 400px;
+	height: 490px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+.map img {
+	border-radius: 497px;
+}
+.thumbnail .caption h3 {
+	color: #FFFFFF;
+	text-align: center;
+}
+.thumbnail1 {
+	background-color: #006C22;
+	border: medium solid #000000;
+	border-radius: 50px;
+	width: 285px;
+	margin-right: 50px;
+}
+.buuton1 {
+	background-color: #FA8A8A;
+	border-radius: 20px;
+	margin-left: 89px;
+}
+.thumbnail2 {
+	border-radius: 50px;
+	border: medium solid #000000;
+	width: 285px;
+	margin-right: 50px;
+}
+.thumbnail.thumbnail2 .caption h3 {
+	color: #000000;
+}
+.buuton2 {
+	margin-left: 89px;
+	background-color: #14AB44;
+	border-radius: 20px;
+	color: #FFFFFF;
+}
+body nav {
+	width: 1542px;
+}
+.thumbnail3 {
+	margin-right: 80px;
+	background-color: #FF5B5E;
+	border-radius: 50px;
+	border: medium solid #000000;
+	width: 285px;
+}
+.buuton3 {
+	border-radius: 20px;
+	margin-left: 89px;
+	background-color: #55A8F0;
+}
+.thumbnail.thumbnail3 .caption h3 {
+	color: #000000;
+}
+.jumbotron {
+	background-color: #F06161;
+	color: #FFFFFF;
+	border: medium solid #000000;
+	text-align: center;
+	bottom: 300px;
+	position: relative;
+}
+.jumbobuuton {
+	border-radius: 500px;
+	background-color: #1C3FE0;
+	margin-left: 100px;
+}
+.circleboi1 {
+	position: absolute;
+	bottom: 90px;
+	left: 150px;
+	height: 500px;
+	width: 300px;
+	top: 400px;
+	border-radius: 40px;
+	border-style: groove;
+	border-color: #000000;
+
+}
+.circleboi2 {
+	position: relative;
+	left: 580px;
+	bottom: 490px;
+	width: 300px;
+	height: 500px;
+	border-radius: 40px;
+}
+.compassboi {
+	position: relative;
+	bottom: 450px;
+	left: 50px;
+	width: 200px;
+	height: 200px;
+}
+.row2 {
+	bottom: 250px;
+}
+.row.row2 {
+}

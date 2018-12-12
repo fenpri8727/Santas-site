@@ -1,0 +1,95 @@
+@charset "utf-8";
+.aboutboi {
+	width: 300px;
+	height: 400px;
+	border-radius: 20px;
+	border: medium solid #000000;
+}
+
+.container footer {
+}
+footer .footer_column p {
+	color: #000000;
+}
+.container #contact .hero_header {
+	color: #000000;
+}
+.container #contact {
+	background-color: #FF595C;
+
+}
+.container .copyright {
+	background-color: #ACFF72;
+}
+.container .banner {
+	background-image: url(Assets/circleboi1.jpg);
+}
+.container .banner .parallax_description {
+	color: #000000;
+	font-weight: bold;
+	font-size: large;
+	font-style: oblique;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+.container .banner .parallax {
+	color: #000000;
+}
+.container #hero {
+	background-image: url(Assets/photo-1435777940218-be0b632d06db.jpg);
+
+}
+.container #hero .hero_header {
+	color: #000000;
+}
+.container #hero .tagline {
+	color: #000000;
+}
+
+
+.container header nav {
+	background-color: #86F770;
+}
+.editboi2 {
+	background-color: #79F27E;
+}
+.editboi2 a .logo {
+	color: #000000;
+}
+.editboi2 nav ul {
+	color: #000000;
+}
+.container .gallery {
+	background-color: #A4F8A3;
+}
+.container #about {
+	background-color: #A4F8A3;
+}
+.container #about .text_column {
+	color: #000000;
+	font-weight: bolder;
+	font-style: oblique;
+	font-variant: normal;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+}
+.gallery .thumbnail h4 {
+	color: #FF0004;
+}
+.locationboi {
+	width: 300px;
+	border-color: #000000;
+	border-style: solid;
+	border-radius: 30px;
+}
+.container #contact .button {
+	background-color: #ED0D10;
+}
+.text {
+	color: #000000;
+}
+.container #about .text_column {
+	font-size: 100px;
+	width: 1300px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
